@@ -6,7 +6,7 @@
 ## 🚀 About Me
 [![Profile Views](https://img.shields.io/badge/Profile%20Views-0-brightgreen?style=for-the-badge)](https://github.com/programmerftw)
 
-I'm a 2024 graduate from SRM University, Sonepat, with a degree in Computer Science and Engineering (CSE), specializing in Artificial Intelligence and Data Science. I'm passionate about applying AI and data-driven techniques to solve real-world problems. Currently, I'm exploring opportunities in generative AI, NLP, and machine learning, while honing my skills through various full stack projects and contributions.
+I'm a 2024 graduate from SRM University, Sonepat, with a degree in Computer Science and Engineering (CSE), specializing in Artificial Intelligence and Data Science. I'm passionate about applying AI and data-driven techniques to solve real-world problems. Currently, I'm exploring opportunities in AI, NLP, and Machine Learning, while honing my skills through various full stack projects and contributions.
 
 
 ## Other Common Github Profile Sections
