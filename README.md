@@ -1,4 +1,4 @@
-# Hey, This is Ujjwal Balaji! ![Waving Hand](https://media.giphy.com/media/xT0xeJpnrGTZ9m9y7i/giphy.gif)
+Hey, This is [Ujjwal Balaji](https://github.com/programmerftw)!
 
 
 ## 🚀 About Me
