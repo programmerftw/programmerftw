@@ -1,4 +1,4 @@
-Hey, This is [Ujjwal Balaji](https://github.com/programmerftw)!
+# Hey, This is Ujjwal Balaji! 👋
 
 
 ## 🚀 About Me
