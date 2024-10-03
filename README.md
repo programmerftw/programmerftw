@@ -1,6 +1,4 @@
-# Hey, This is Ujjwal Balaji! 👋
-
-
+# Hey, This is Ujjwal Balaji! ![Waving Hand](https://media.giphy.com/media/xT0xeJpnrGTZ9m9y7i/giphy.gif)
 
 
 ## 🚀 About Me
