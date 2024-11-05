@@ -28,5 +28,5 @@ I'm a 2024 graduate from SRM University, Sonepat, with a degree in Computer Scie
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjwal.balaji1805@gmail.com)
 
 ## 🔗 Open-Source Badges
-[![Holopin Badge](cm2kax6x841520clh98tidqxa.)](https://holopin.io/)
+[![Holopin Badge](cm2kax6x841520clh98tidqxa)](https://holopin.io/)
 
