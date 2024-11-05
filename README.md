@@ -27,6 +27,8 @@ I'm a 2024 graduate from SRM University, Sonepat, with a degree in Computer Scie
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/UjjwalCodes)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjwal.balaji1805@gmail.com)
 
+[![An image of @programmerftw's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/programmerftw)](https://holopin.io/@programmerftw)
+
 
 
 
