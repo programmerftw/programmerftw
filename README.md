@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-I'm a 2024 graduate from SRM University, Sonepat, with a degree in Computer Science and Engineering (CSE), specializing in Artificial Intelligence and Data Science. I'm passionate about applying AI and data-driven techniques to solve real-world problems. Currently, I'm exploring opportunities in AI, NLP, and Machine Learning, while honing my skills through various full stack projects and contributions.
+I'm a 2024 graduate from SRM University, Sonepat, Delhi-NCR with a degree in Computer Science and Engineering (CSE), specializing in Artificial Intelligence and Data Science. I'm passionate about applying AI and data-driven techniques to solve real-world problems. Currently, I'm exploring opportunities in AI, NLP, and Machine Learning, while honing my skills through various full stack projects and contributions.
 
 
 ## Other Common Github Profile Sections
@@ -26,6 +26,7 @@ I'm a 2024 graduate from SRM University, Sonepat, with a degree in Computer Scie
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-balaji-a26711254/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/UjjwalCodes)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjwal.balaji1805@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-242424?style=for-the-badge&logo=web&logoColor=white)](https://portfolio-website-tan-sigma-82.vercel.app/)
 
 ## 🔗 HACKTOBER FEST-2024
 
