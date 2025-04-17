@@ -25,7 +25,7 @@ I'm a 2024 graduate from SRM University, Sonepat, Delhi-NCR with a degree in Com
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-balaji-a26711254/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-balaji/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/UjjwalCodes)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjwal.balaji1805@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-242424?style=for-the-badge&logo=web&logoColor=white)](https://portfolio-website-khaki-sigma.vercel.app/)
